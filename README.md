@@ -2,10 +2,9 @@
 
 A Streamlit web application that explores UPI fraud records, shows where fraud loss is concentrated, and gives a fraud victim a short report: severity, impact relative to income, a recommended action, and official help contacts.
 
-Built as a project for the *Python with Data Science & ML* internship at **NIELIT Chandigarh** by **Neha** and **Nandini**, under the guidance of Mr. Vineet Kumar.
+Built as a project for the *Python with Data Science & ML* internship at **NIELIT Chandigarh** .
 
 - 🌐 Live app: https://scamlens-ai.streamlit.app/
-- 💻 Repository: https://github.com/Nandini04It/scamlens-ai-
 
 > **Important:** The classifier reproduces predefined severity labels that are derived from the transaction amount. It does not verify whether a transaction is fraudulent and it is not a real-time fraud-detection system.
 
