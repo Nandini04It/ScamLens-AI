@@ -100,11 +100,8 @@ Python, Streamlit, Pandas, NumPy, Plotly, Scikit-learn, Joblib, fpdf2 (PDF repor
 ScamLens-AI/
 ├── app.py                      # Streamlit user interface
 ├── utils.py                    # Backend logic: model loading, prediction, impact, action, PDF report
-├── ScamLens_AI_NoteBook.ipynb  # Cleaning, feature engineering, EDA, model training
 ├── requirements.txt
 ├── scam_dataset.csv            # Original dataset
-├── cleaned_scam_dataset.csv    # After data cleaning
-├── featured_scam_dataset.csv   # After feature engineering
 ├── fraud_severity_model.pkl    # Trained Decision Tree
 ├── feature_encoders.pkl        # Encoders for input features
 ├── target_encoder.pkl          # Encoder for the severity label
